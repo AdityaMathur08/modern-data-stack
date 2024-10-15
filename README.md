@@ -23,7 +23,7 @@ CloudBeaver Community - Interface
 
 S.no|Service| Username | Credentials | Hostname |
 |---|------|----------|-------------|----------|
-1.|Database(Postgres)|postgres|password:postgres|172.99.0.2(container)
+1.|Database(Postgres)|postgres||172.99.0.2(container)
 2.|Cloud Beaver Database workbench| cbadmin  |  | 172.99.0.2 |
 
 ### Roles and Permissions:
