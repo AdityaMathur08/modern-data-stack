@@ -1,0 +1,5 @@
+.workspace
+.vscode
+pgdata
+password_mgr.txt
+*env
