@@ -1,0 +1,7 @@
+Quick Links:
+============
+
+- Airbyte: 127.0.0.1:8000
+- CloudBeaver: 127.0.0.1:8200
+- Metabase: 127.0.0.1:3000
+- Github: https://github.com/AdityaMathur08/modern-data-stack
